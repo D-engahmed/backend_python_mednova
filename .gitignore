@@ -1,20 +1,24 @@
-# Virtual environment
-.venv/
-venv/
-
-# Python cache
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+.venv/
+venv/
 
 # Environment variables
 .env
 
-# Databases
-*.db
-
-# IDE settings
+# VS Code / PyCharm
 .vscode/
 .idea/
+
+# Alembic cache
+alembic/versions/*.pyc
+
 
 # local ai models (it is very have)
 local_ai
