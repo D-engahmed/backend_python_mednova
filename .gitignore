@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Databases
+*.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# local ai models (it is very have)
+local_ai

@@ -1,0 +1,403 @@
+2025-07-14 05:22:16,488 - medixai - INFO - Logging initialized successfully
+2025-07-14 05:23:58,236 - medixai - INFO - Logging initialized successfully
+2025-07-14 05:26:43,856 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:04:09,362 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:05:19,963 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:07:46,075 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:08:41,284 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:09:48,332 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:11:58,840 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:13:14,519 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:14:36,948 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:16:22,638 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:17:28,454 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:18:56,440 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:20:14,285 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:20:46,204 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:21:35,766 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:23:39,962 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:23:54,693 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:24:44,756 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:26:46,181 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:26:57,181 - medixai - INFO - Starting Medical AI API
+2025-07-16 09:26:57,262 - medixai - INFO - Preloading AI models...
+2025-07-16 09:26:57,263 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-16 09:27:16,293 - medixai - ERROR - Error loading text model: The repository MBZUAI/BiMediX2-4B contains custom code which must be executed to correctly load the model. You can inspect the repository content at https://hf.co/MBZUAI/BiMediX2-4B .
+ You can inspect the repository content at https://hf.co/MBZUAI/BiMediX2-4B.
+Please pass the argument `trust_remote_code=True` to allow custom code to be run.
+2025-07-16 09:27:16,293 - medixai - ERROR - Startup failed: The repository MBZUAI/BiMediX2-4B contains custom code which must be executed to correctly load the model. You can inspect the repository content at https://hf.co/MBZUAI/BiMediX2-4B .
+ You can inspect the repository content at https://hf.co/MBZUAI/BiMediX2-4B.
+Please pass the argument `trust_remote_code=True` to allow custom code to be run.
+2025-07-16 09:31:19,712 - medixai - INFO - Shutting down Medical AI API
+2025-07-16 09:31:19,713 - medixai - INFO - All models unloaded
+2025-07-16 09:31:22,197 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:31:36,627 - medixai - INFO - Starting Medical AI API
+2025-07-16 09:31:36,631 - medixai - INFO - Preloading AI models...
+2025-07-16 09:31:36,632 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-16 09:31:38,331 - medixai - ERROR - Error loading text model: The repository MBZUAI/BiMediX2-4B contains custom code which must be executed to correctly load the model. You can inspect the repository content at https://hf.co/MBZUAI/BiMediX2-4B .
+ You can inspect the repository content at https://hf.co/MBZUAI/BiMediX2-4B.
+Please pass the argument `trust_remote_code=True` to allow custom code to be run.
+2025-07-16 09:31:38,331 - medixai - ERROR - Startup failed: The repository MBZUAI/BiMediX2-4B contains custom code which must be executed to correctly load the model. You can inspect the repository content at https://hf.co/MBZUAI/BiMediX2-4B .
+ You can inspect the repository content at https://hf.co/MBZUAI/BiMediX2-4B.
+Please pass the argument `trust_remote_code=True` to allow custom code to be run.
+2025-07-16 09:40:52,925 - medixai - INFO - Shutting down Medical AI API
+2025-07-16 09:40:52,925 - medixai - INFO - All models unloaded
+2025-07-16 09:40:54,833 - medixai - INFO - Logging initialized successfully
+2025-07-16 09:41:06,804 - medixai - INFO - Starting Medical AI API
+2025-07-16 09:41:06,812 - medixai - INFO - Preloading AI models...
+2025-07-16 09:41:06,814 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-16 10:07:09,735 - medixai - ERROR - Error loading text model: (ReadTimeoutError("HTTPSConnectionPool(host='cdn-lfs-us-1.hf.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 0aea95c5-74c4-4007-998b-26241698864d)')
+2025-07-16 10:07:09,736 - medixai - ERROR - Startup failed: (ReadTimeoutError("HTTPSConnectionPool(host='cdn-lfs-us-1.hf.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: 0aea95c5-74c4-4007-998b-26241698864d)')
+2025-07-16 10:09:24,554 - medixai - INFO - Shutting down Medical AI API
+2025-07-16 10:09:24,554 - medixai - INFO - All models unloaded
+2025-07-16 10:14:40,721 - medixai - INFO - Logging initialized successfully
+2025-07-16 10:15:20,423 - medixai - INFO - Starting Medical AI API
+2025-07-16 10:15:20,428 - medixai - INFO - Preloading AI models...
+2025-07-16 10:15:20,428 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-16 10:15:20,667 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024AA5067770>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 38c941b3-dbed-4712-99b5-56f579243b2a)')
+2025-07-16 10:15:20,667 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024AA5067770>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 38c941b3-dbed-4712-99b5-56f579243b2a)')
+2025-07-17 23:41:39,645 - medixai - INFO - Logging initialized successfully
+2025-07-17 23:42:42,323 - medixai - INFO - Starting Medical AI API
+2025-07-17 23:42:42,346 - medixai - INFO - Preloading AI models...
+2025-07-17 23:42:42,346 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-17 23:42:42,476 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000126D3597770>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: e1461c17-3622-4091-ac2a-cbdf3e1b21ec)')
+2025-07-17 23:42:42,476 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000126D3597770>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: e1461c17-3622-4091-ac2a-cbdf3e1b21ec)')
+2025-07-17 23:47:52,599 - medixai - INFO - Shutting down Medical AI API
+2025-07-17 23:47:52,599 - medixai - INFO - All models unloaded
+2025-07-17 23:47:57,877 - medixai - INFO - Logging initialized successfully
+2025-07-17 23:48:13,381 - medixai - INFO - Starting Medical AI API
+2025-07-17 23:48:13,381 - medixai - INFO - Preloading AI models...
+2025-07-17 23:48:13,381 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-17 23:48:13,531 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C64C5A74D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 79270e46-495f-4bee-9199-a924a1110053)')
+2025-07-17 23:48:13,531 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C64C5A74D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 79270e46-495f-4bee-9199-a924a1110053)')
+2025-07-17 23:50:14,553 - medixai - INFO - Shutting down Medical AI API
+2025-07-17 23:50:14,563 - medixai - INFO - All models unloaded
+2025-07-17 23:50:16,561 - medixai - INFO - Logging initialized successfully
+2025-07-17 23:50:29,545 - medixai - INFO - Starting Medical AI API
+2025-07-17 23:50:29,545 - medixai - INFO - Preloading AI models...
+2025-07-17 23:50:29,545 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-17 23:50:29,678 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027556EB77A0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 86fd71be-f06e-44cd-ad5b-df700ab29126)')
+2025-07-17 23:50:29,678 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027556EB77A0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 86fd71be-f06e-44cd-ad5b-df700ab29126)')
+2025-07-17 23:52:15,976 - medixai - INFO - Shutting down Medical AI API
+2025-07-17 23:52:15,976 - medixai - INFO - All models unloaded
+2025-07-17 23:52:17,993 - medixai - INFO - Logging initialized successfully
+2025-07-17 23:52:31,210 - medixai - INFO - Starting Medical AI API
+2025-07-17 23:52:31,210 - medixai - INFO - Preloading AI models...
+2025-07-17 23:52:31,210 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-17 23:52:31,450 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000012536692960>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 156129c3-2ff0-4267-8f66-46fd103fd6ef)')
+2025-07-17 23:52:31,450 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000012536692960>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 156129c3-2ff0-4267-8f66-46fd103fd6ef)')
+2025-07-18 00:08:38,770 - medixai - INFO - Shutting down Medical AI API
+2025-07-18 00:08:38,770 - medixai - INFO - All models unloaded
+2025-07-18 00:08:41,128 - medixai - INFO - Logging initialized successfully
+2025-07-18 00:09:32,952 - medixai - INFO - Logging initialized successfully
+2025-07-18 00:09:55,619 - medixai - INFO - Logging initialized successfully
+2025-07-18 00:10:09,561 - medixai - INFO - Starting Medical AI API
+2025-07-18 00:10:09,561 - medixai - INFO - Preloading AI models...
+2025-07-18 00:10:09,561 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-18 00:10:54,479 - medixai - ERROR - Error loading text model: (ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), '(Request ID: 485bc4bb-a84a-40b0-901f-52c1fdfc7815)')
+2025-07-18 00:10:54,479 - medixai - ERROR - Startup failed: (ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')), '(Request ID: 485bc4bb-a84a-40b0-901f-52c1fdfc7815)')
+2025-07-18 00:10:56,390 - medixai - INFO - Logging initialized successfully
+2025-07-18 00:11:08,013 - medixai - INFO - Starting Medical AI API
+2025-07-18 00:11:08,013 - medixai - INFO - Preloading AI models...
+2025-07-18 00:11:08,013 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-18 00:12:50,811 - medixai - INFO - Logging initialized successfully
+2025-07-18 00:13:04,442 - medixai - INFO - Starting Medical AI API
+2025-07-18 00:13:04,451 - medixai - INFO - Preloading AI models...
+2025-07-18 00:13:04,451 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-18 00:13:04,629 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021177AD79B0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: a73c35db-888f-4499-859e-3c11c45db10a)')
+2025-07-18 00:13:04,629 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021177AD79B0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: a73c35db-888f-4499-859e-3c11c45db10a)')
+2025-07-18 05:04:50,590 - medixai - INFO - Shutting down Medical AI API
+2025-07-18 05:04:50,590 - medixai - INFO - All models unloaded
+2025-07-18 05:04:52,661 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:05:23,701 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:05:47,033 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:06:09,128 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:06:20,512 - medixai - INFO - Starting Medical AI API
+2025-07-18 05:06:20,512 - medixai - INFO - Preloading AI models...
+2025-07-18 05:06:20,512 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-18 05:06:26,579 - medixai - ERROR - Error loading text model: MBZUAI/BiMediX2-4B does not appear to have files named ('pytorch_model-00001-of-00002.bin', 'pytorch_model-00002-of-00002.bin'). Checkout 'https://huggingface.co/MBZUAI/BiMediX2-4B/tree/main' for available files.
+2025-07-18 05:06:26,630 - medixai - ERROR - Startup failed: MBZUAI/BiMediX2-4B does not appear to have files named ('pytorch_model-00001-of-00002.bin', 'pytorch_model-00002-of-00002.bin'). Checkout 'https://huggingface.co/MBZUAI/BiMediX2-4B/tree/main' for available files.
+2025-07-18 05:10:50,302 - medixai - INFO - Shutting down Medical AI API
+2025-07-18 05:10:50,302 - medixai - INFO - All models unloaded
+2025-07-18 05:10:52,871 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:11:27,761 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:11:45,856 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:33:34,104 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:34:42,689 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:35:59,440 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:37:05,138 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:37:30,748 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:37:41,164 - medixai - INFO - Starting Medical AI API
+2025-07-18 05:37:41,265 - medixai - INFO - Preloading AI models...
+2025-07-18 05:37:41,265 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-18 05:37:41,524 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FC9148F440>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 8cf93249-2bf3-48e8-9d94-18a70f56228a)')
+2025-07-18 05:37:41,524 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FC9148F440>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 8cf93249-2bf3-48e8-9d94-18a70f56228a)')
+2025-07-18 05:46:06,150 - medixai - INFO - Shutting down Medical AI API
+2025-07-18 05:46:06,151 - medixai - INFO - All models unloaded
+2025-07-18 05:47:44,200 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:47:55,565 - medixai - INFO - Starting Medical AI API
+2025-07-18 05:47:55,569 - medixai - INFO - Preloading AI models...
+2025-07-18 05:47:55,569 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-18 05:47:55,693 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F22536D0A0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 85180b12-fefe-4709-9211-63c1c75fa407)')
+2025-07-18 05:47:55,693 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F22536D0A0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 85180b12-fefe-4709-9211-63c1c75fa407)')
+2025-07-18 05:51:47,557 - medixai - INFO - Shutting down Medical AI API
+2025-07-18 05:51:47,557 - medixai - INFO - All models unloaded
+2025-07-18 05:51:49,782 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:52:05,058 - medixai - INFO - Starting Medical AI API
+2025-07-18 05:52:05,065 - medixai - INFO - Preloading AI models...
+2025-07-18 05:52:05,065 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-18 05:52:05,233 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CFEEB5B500>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: b52d5b70-57b1-47ca-842d-f88c0f8fc7e9)')
+2025-07-18 05:52:05,234 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CFEEB5B500>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: b52d5b70-57b1-47ca-842d-f88c0f8fc7e9)')
+2025-07-18 05:52:56,354 - medixai - INFO - Shutting down Medical AI API
+2025-07-18 05:52:56,355 - medixai - INFO - All models unloaded
+2025-07-18 05:52:58,077 - medixai - INFO - Logging initialized successfully
+2025-07-18 05:53:09,344 - medixai - INFO - Starting Medical AI API
+2025-07-18 05:53:09,347 - medixai - INFO - Preloading AI models...
+2025-07-18 05:53:09,348 - medixai - INFO - Loading text model: ./local_ai/bimedx2_local_
+2025-07-18 06:05:02,114 - medixai - INFO - Text model loaded in 709.66s
+2025-07-18 06:05:15,083 - medixai - INFO - Loading image model: google/medgemma-4b-it
+2025-07-18 06:06:07,998 - medixai - ERROR - Error loading image model: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+Check your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2025-07-18 06:06:08,183 - medixai - ERROR - Startup failed: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+Check your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2025-07-18 06:47:11,082 - medixai - INFO - Shutting down Medical AI API
+2025-07-18 06:47:17,532 - medixai - INFO - All models unloaded
+2025-07-18 06:49:51,432 - medixai - INFO - Logging initialized successfully
+2025-07-18 06:53:54,298 - medixai - INFO - Logging initialized successfully
+2025-07-18 06:56:28,200 - medixai - INFO - Logging initialized successfully
+2025-07-18 06:56:43,820 - medixai - INFO - Starting Medical AI API
+2025-07-18 06:56:43,886 - medixai - INFO - Preloading AI models...
+2025-07-18 06:56:43,890 - medixai - INFO - Loading text model: ./local_ai/bimedx2_local_
+2025-07-18 07:09:15,431 - medixai - INFO - Text model loaded in 751.20s
+2025-07-18 07:09:17,033 - medixai - INFO - Loading image model: google/medgemma-4b-it
+2025-07-18 07:09:26,545 - medixai - ERROR - Error loading image model: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+Check your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2025-07-18 07:09:26,545 - medixai - ERROR - Startup failed: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+Check your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2025-07-18 09:38:07,104 - medixai - INFO - Logging initialized successfully
+2025-07-18 09:40:26,028 - medixai - INFO - Starting Medical AI API
+2025-07-18 09:40:26,052 - medixai - INFO - Preloading AI models...
+2025-07-18 09:40:26,052 - medixai - INFO - Loading text model: ./local_ai/bimedx2_local_
+2025-07-18 09:49:35,581 - medixai - INFO - Text model loaded in 548.80s
+2025-07-18 09:49:39,261 - medixai - INFO - Loading image model: google/medgemma-4b-it
+2025-07-18 09:50:07,856 - medixai - ERROR - Error loading image model: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/google/medgemma-4b-it.
+403 Client Error. (Request ID: Root=1-6879eea2-6d3a5bf00bf68b362c0eee23;e18cd3cc-80eb-4d4f-956b-bb12bd2f5a5a)
+
+Cannot access gated repo for url https://huggingface.co/google/medgemma-4b-it/resolve/main/config.json.
+Access to model google/medgemma-4b-it is restricted and you are not in the authorized list. Visit https://huggingface.co/google/medgemma-4b-it to ask for access.
+2025-07-18 09:50:07,999 - medixai - ERROR - Startup failed: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/google/medgemma-4b-it.
+403 Client Error. (Request ID: Root=1-6879eea2-6d3a5bf00bf68b362c0eee23;e18cd3cc-80eb-4d4f-956b-bb12bd2f5a5a)
+
+Cannot access gated repo for url https://huggingface.co/google/medgemma-4b-it/resolve/main/config.json.
+Access to model google/medgemma-4b-it is restricted and you are not in the authorized list. Visit https://huggingface.co/google/medgemma-4b-it to ask for access.
+2025-07-21 20:44:54,438 - medixai - INFO - Logging initialized successfully
+2025-07-21 20:47:02,176 - medixai - INFO - Logging initialized successfully
+2025-07-21 20:49:00,408 - medixai - INFO - Starting Medical AI API
+2025-07-21 20:49:00,523 - medixai - ERROR - Startup failed: (psycopg2.ProgrammingError) invalid dsn: invalid connection option "check_same_thread"
+
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-07-21 21:01:03,091 - medixai - INFO - Shutting down Medical AI API
+2025-07-21 21:01:03,092 - medixai - INFO - All models unloaded
+2025-07-21 21:01:07,984 - medixai - INFO - Logging initialized successfully
+2025-07-21 21:01:27,746 - medixai - INFO - Starting Medical AI API
+2025-07-21 21:01:27,754 - medixai - ERROR - Startup failed: (psycopg2.ProgrammingError) invalid dsn: invalid connection option "check_same_thread"
+
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-07-21 21:01:59,568 - medixai - INFO - Shutting down Medical AI API
+2025-07-21 21:01:59,569 - medixai - INFO - All models unloaded
+2025-07-21 21:02:01,704 - medixai - INFO - Logging initialized successfully
+2025-07-21 21:02:17,194 - medixai - INFO - Starting Medical AI API
+2025-07-21 21:02:17,194 - medixai - ERROR - Startup failed: (psycopg2.ProgrammingError) invalid dsn: invalid connection option "check_same_thread"
+
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-07-21 21:06:08,691 - medixai - INFO - Shutting down Medical AI API
+2025-07-21 21:06:08,692 - medixai - INFO - All models unloaded
+2025-07-21 21:06:12,274 - medixai - INFO - Logging initialized successfully
+2025-07-21 21:06:31,507 - medixai - INFO - Starting Medical AI API
+2025-07-21 21:06:31,509 - medixai - ERROR - Startup failed: (psycopg2.ProgrammingError) invalid dsn: invalid connection option "check_same_thread"
+
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-07-21 21:19:15,934 - medixai - INFO - Shutting down Medical AI API
+2025-07-21 21:19:15,934 - medixai - INFO - All models unloaded
+2025-07-21 21:19:17,858 - medixai - INFO - Logging initialized successfully
+2025-07-21 21:19:37,809 - medixai - INFO - Starting Medical AI API
+2025-07-21 21:19:37,809 - medixai - ERROR - Startup failed: (psycopg2.ProgrammingError) invalid dsn: invalid connection option "check_same_thread"
+
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-07-21 21:25:15,806 - medixai - INFO - Shutting down Medical AI API
+2025-07-21 21:25:15,807 - medixai - INFO - All models unloaded
+2025-07-21 21:25:23,723 - medixai - INFO - Logging initialized successfully
+2025-07-21 21:26:48,173 - medixai - INFO - Starting Medical AI API
+2025-07-21 21:26:48,233 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-21 21:26:48,233 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-21 22:28:30,024 - medixai - INFO - Logging initialized successfully
+2025-07-21 22:31:31,704 - medixai - INFO - Starting Medical AI API
+2025-07-21 22:31:31,785 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-21 22:31:31,785 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-21 22:42:50,465 - medixai - INFO - Text model loaded in 678.37s
+2025-07-21 22:42:52,113 - medixai - INFO - Loading image model: google/medgemma-4b-it
+2025-07-21 22:42:56,245 - medixai - ERROR - Error loading image model: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/google/medgemma-4b-it.
+403 Client Error. (Request ID: Root=1-687e9840-6b7e54ec63478b8c394de18e;a83509ae-7ee9-4b22-aa8b-40738d3412ea)
+
+Cannot access gated repo for url https://huggingface.co/google/medgemma-4b-it/resolve/main/config.json.
+Access to model google/medgemma-4b-it is restricted and you are not in the authorized list. Visit https://huggingface.co/google/medgemma-4b-it to ask for access.
+2025-07-21 22:42:56,454 - medixai - ERROR - Startup failed: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/google/medgemma-4b-it.
+403 Client Error. (Request ID: Root=1-687e9840-6b7e54ec63478b8c394de18e;a83509ae-7ee9-4b22-aa8b-40738d3412ea)
+
+Cannot access gated repo for url https://huggingface.co/google/medgemma-4b-it/resolve/main/config.json.
+Access to model google/medgemma-4b-it is restricted and you are not in the authorized list. Visit https://huggingface.co/google/medgemma-4b-it to ask for access.
+2025-07-21 22:56:48,825 - medixai - INFO - Shutting down Medical AI API
+2025-07-21 22:56:55,769 - medixai - INFO - All models unloaded
+2025-07-21 22:58:19,889 - medixai - INFO - Logging initialized successfully
+2025-07-22 00:13:19,243 - medixai - INFO - Logging initialized successfully
+2025-07-22 00:27:50,913 - medixai - INFO - Starting Medical AI API
+2025-07-22 00:27:52,062 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-22 00:27:52,062 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-22 00:28:00,261 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002098F3D3050>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: ab12c544-12c1-49fc-9a2c-7c6003cd03d5)')
+2025-07-22 00:28:00,261 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002098F3D3050>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: ab12c544-12c1-49fc-9a2c-7c6003cd03d5)')
+2025-07-22 01:30:56,925 - medixai - INFO - Logging initialized successfully
+2025-07-22 01:32:46,316 - medixai - INFO - Logging initialized successfully
+2025-07-22 01:33:40,745 - medixai - INFO - Logging initialized successfully
+2025-07-22 01:38:12,370 - medixai - INFO - Logging initialized successfully
+2025-07-22 01:39:26,630 - medixai - INFO - Starting Medical AI API
+2025-07-22 01:39:26,705 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-22 01:39:26,705 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-22 01:39:26,990 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025BC602F320>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 81713099-8069-4149-b032-1bf428847e18)')
+2025-07-22 01:39:26,990 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025BC602F320>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 81713099-8069-4149-b032-1bf428847e18)')
+2025-07-22 01:41:21,755 - medixai - INFO - Searching for medicines matching 'panadoal'
+2025-07-24 06:30:32,183 - medixai - INFO - Logging initialized successfully
+2025-07-24 06:32:19,953 - medixai - INFO - Starting Medical AI API
+2025-07-24 06:32:19,992 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 06:32:19,993 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-24 06:32:20,364 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002005235F1D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: b4c8dd2e-b00a-43cf-950d-2d5c56864535)')
+2025-07-24 06:32:20,366 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002005235F1D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: b4c8dd2e-b00a-43cf-950d-2d5c56864535)')
+2025-07-24 06:32:41,126 - medixai - INFO - Shutting down Medical AI API
+2025-07-24 06:32:41,127 - medixai - INFO - All models unloaded
+2025-07-24 06:32:44,419 - medixai - INFO - Logging initialized successfully
+2025-07-24 06:32:57,255 - medixai - INFO - Starting Medical AI API
+2025-07-24 06:32:57,269 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 06:32:57,270 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-24 06:32:57,378 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D24444F2F0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 4a160f6a-4256-4878-bb58-11e66383bf76)')
+2025-07-24 06:32:57,378 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D24444F2F0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 4a160f6a-4256-4878-bb58-11e66383bf76)')
+2025-07-24 06:33:56,922 - medixai - INFO - Shutting down Medical AI API
+2025-07-24 06:33:56,922 - medixai - INFO - All models unloaded
+2025-07-24 06:34:05,799 - medixai - INFO - Logging initialized successfully
+2025-07-24 06:34:20,664 - medixai - INFO - Starting Medical AI API
+2025-07-24 06:34:20,682 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 06:34:20,682 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-24 06:34:20,819 - medixai - ERROR - Error loading text model: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001ABDFB33230>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 16d8ccb4-c583-4237-b3d3-8d29b3e1ee4a)')
+2025-07-24 06:34:20,820 - medixai - ERROR - Startup failed: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/MBZUAI/BiMediX2-4B/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001ABDFB33230>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 16d8ccb4-c583-4237-b3d3-8d29b3e1ee4a)')
+2025-07-24 10:03:03,862 - medixai - INFO - Logging initialized successfully
+2025-07-24 10:05:26,807 - medixai - INFO - Starting Medical AI API
+2025-07-24 10:05:26,881 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 10:05:26,881 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-24 10:22:55,036 - medixai - INFO - Logging initialized successfully
+2025-07-24 10:26:14,304 - medixai - INFO - Starting Medical AI API
+2025-07-24 10:26:14,474 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 10:26:14,475 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-24 10:41:14,226 - medixai - INFO - Logging initialized successfully
+2025-07-24 10:42:55,550 - medixai - INFO - Starting Medical AI API
+2025-07-24 10:42:55,626 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 10:42:55,627 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-24 10:54:51,556 - medixai - INFO - Text model loaded in 715.93s
+2025-07-24 10:54:53,975 - medixai - INFO - Loading image model: google/medgemma-4b-it
+2025-07-24 10:54:56,195 - medixai - ERROR - Error loading image model: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/google/medgemma-4b-it.
+403 Client Error. (Request ID: Root=1-6881e6d4-48ade4141af4509c36def347;0e1162be-7ea5-490e-b0fc-1fd5977b795e)
+
+Cannot access gated repo for url https://huggingface.co/google/medgemma-4b-it/resolve/main/config.json.
+Access to model google/medgemma-4b-it is restricted and you are not in the authorized list. Visit https://huggingface.co/google/medgemma-4b-it to ask for access.
+2025-07-24 10:54:56,195 - medixai - ERROR - Startup failed: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/google/medgemma-4b-it.
+403 Client Error. (Request ID: Root=1-6881e6d4-48ade4141af4509c36def347;0e1162be-7ea5-490e-b0fc-1fd5977b795e)
+
+Cannot access gated repo for url https://huggingface.co/google/medgemma-4b-it/resolve/main/config.json.
+Access to model google/medgemma-4b-it is restricted and you are not in the authorized list. Visit https://huggingface.co/google/medgemma-4b-it to ask for access.
+2025-07-24 11:04:03,901 - medixai - INFO - Logging initialized successfully
+2025-07-24 11:06:44,409 - medixai - INFO - Starting Medical AI API
+2025-07-24 11:06:44,455 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 11:06:44,455 - medixai - INFO - Loading image model: google/medgemma-4b-it
+2025-07-24 11:06:46,152 - medixai - ERROR - Error loading image model: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/google/medgemma-4b-it.
+403 Client Error. (Request ID: Root=1-6881e99b-273d35e3152112946d2116df;b53dc982-1ec1-44fc-b2f5-48943ed62fe3)
+
+Cannot access gated repo for url https://huggingface.co/google/medgemma-4b-it/resolve/main/config.json.
+Access to model google/medgemma-4b-it is restricted and you are not in the authorized list. Visit https://huggingface.co/google/medgemma-4b-it to ask for access.
+2025-07-24 11:06:46,155 - medixai - ERROR - Startup failed: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/google/medgemma-4b-it.
+403 Client Error. (Request ID: Root=1-6881e99b-273d35e3152112946d2116df;b53dc982-1ec1-44fc-b2f5-48943ed62fe3)
+
+Cannot access gated repo for url https://huggingface.co/google/medgemma-4b-it/resolve/main/config.json.
+Access to model google/medgemma-4b-it is restricted and you are not in the authorized list. Visit https://huggingface.co/google/medgemma-4b-it to ask for access.
+2025-07-24 11:06:48,837 - medixai - INFO - Shutting down Medical AI API
+2025-07-24 11:06:48,837 - medixai - INFO - All models unloaded
+2025-07-24 11:06:53,129 - medixai - INFO - Logging initialized successfully
+2025-07-24 11:07:08,005 - medixai - INFO - Starting Medical AI API
+2025-07-24 11:07:08,021 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 11:07:08,021 - medixai - INFO - All models loaded successfully
+2025-07-24 11:10:20,280 - medixai - INFO - Shutting down Medical AI API
+2025-07-24 11:10:20,280 - medixai - INFO - All models unloaded
+2025-07-24 11:10:22,438 - medixai - INFO - Logging initialized successfully
+2025-07-24 11:10:33,555 - medixai - INFO - Starting Medical AI API
+2025-07-24 11:10:33,568 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 11:10:33,569 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-24 11:46:01,178 - medixai - INFO - Logging initialized successfully
+2025-07-24 11:46:39,473 - medixai - INFO - Logging initialized successfully
+2025-07-24 11:48:50,699 - medixai - INFO - Logging initialized successfully
+2025-07-24 11:50:04,174 - medixai - INFO - Starting Medical AI API
+2025-07-24 11:50:04,252 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-24 11:50:04,253 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-25 00:34:51,222 - medixai - INFO - Logging initialized successfully
+2025-07-25 00:36:21,514 - medixai - INFO - Logging initialized successfully
+2025-07-25 00:36:40,345 - medixai - INFO - Starting Medical AI API
+2025-07-25 00:36:40,412 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-25 00:36:40,412 - medixai - ERROR - Startup failed: type object 'ModelLoader' has no attribute 'get_text_model'
+2025-07-25 00:37:23,997 - medixai - INFO - Shutting down Medical AI API
+2025-07-25 00:37:28,983 - medixai - INFO - Logging initialized successfully
+2025-07-25 00:37:41,109 - medixai - INFO - Starting Medical AI API
+2025-07-25 00:37:41,129 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-25 00:37:41,129 - medixai - INFO - Loading text model...
+2025-07-25 00:50:22,831 - medixai - INFO - Applying int8 quantization to model...
+2025-07-25 02:30:35,032 - medixai - INFO - Logging initialized successfully
+2025-07-25 02:32:24,435 - medixai - INFO - Starting Medical AI API
+2025-07-25 02:32:24,489 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-25 02:32:24,500 - medixai - ERROR - Startup failed: type object 'ModelLoader' has no attribute 'get_text'
+2025-07-25 02:32:30,103 - medixai - INFO - Logging initialized successfully
+2025-07-25 02:32:42,172 - medixai - INFO - Starting Medical AI API
+2025-07-25 02:32:42,179 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-25 02:32:42,179 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-25 02:48:02,154 - medixai - INFO - Logging initialized successfully
+2025-07-25 02:49:18,460 - medixai - INFO - Starting Medical AI API
+2025-07-25 02:49:18,481 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-25 02:49:18,482 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-25 02:59:41,510 - medixai - INFO - All models loaded successfully
+2025-07-25 03:01:00,810 - medixai - INFO - Shutting down Medical AI API
+2025-07-25 03:04:55,484 - medixai - INFO - Logging initialized successfully
+2025-07-25 04:45:37,910 - medixai - INFO - Logging initialized successfully
+2025-07-25 04:46:41,076 - medixai - INFO - Starting Medical AI API
+2025-07-25 04:46:41,092 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-07-25 04:46:41,092 - medixai - INFO - Loading text model: MBZUAI/BiMediX2-4B
+2025-07-25 04:57:49,941 - medixai - INFO - All models loaded successfully
+2025-07-25 05:34:13,542 - medixai - INFO - Shutting down Medical AI API
+2025-08-05 10:26:38,155 - medixai - INFO - Logging initialized successfully
+2025-08-05 10:28:51,855 - medixai - INFO - Starting Medical AI API
+2025-08-05 10:28:52,105 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-08-05 10:28:52,105 - medixai - INFO - All models loaded successfully
+2025-08-05 10:33:41,308 - medixai - INFO - Shutting down Medical AI API
+2025-08-05 10:44:23,347 - medixai - INFO - Logging initialized successfully
+2025-08-05 10:45:28,189 - medixai - INFO - Starting Medical AI API
+2025-08-05 10:45:28,197 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-08-05 10:45:28,197 - medixai - INFO - All models loaded successfully
+2025-08-05 10:51:14,970 - medixai - INFO - Shutting down Medical AI API
+2025-08-05 10:51:18,433 - medixai - INFO - Logging initialized successfully
+2025-08-05 10:51:35,188 - medixai - INFO - Starting Medical AI API
+2025-08-05 10:51:35,205 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-08-05 10:51:35,206 - medixai - INFO - All models loaded successfully
+2025-08-20 22:12:55,911 - medixai - INFO - Logging initialized successfully
+2025-08-20 22:15:07,493 - medixai - INFO - Starting Medical AI API
+2025-08-20 22:15:07,991 - medixai - INFO - Preloading AI models from Hugging Face Hub...
+2025-08-20 22:15:08,054 - medixai - INFO - All models loaded successfully
